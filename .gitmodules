@@ -1,0 +1,3 @@
+[submodule "JsRPC"]
+	path = JsRPC
+	url = https://github.com/jc-lab/JsRPCSerializable.git
